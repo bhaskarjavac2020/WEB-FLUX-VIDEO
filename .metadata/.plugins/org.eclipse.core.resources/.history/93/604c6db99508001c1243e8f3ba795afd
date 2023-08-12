@@ -1,0 +1,5 @@
+package com.flux.streaming;
+
+public class WebfluxController {
+
+}
